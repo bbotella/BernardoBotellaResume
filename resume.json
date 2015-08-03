@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Bernardo Botella",
+    "label": "Dev engineer",
+    "picture": "",
+    "email": "contacto@bernardobotella.com",
+    "phone": "+34 676 471530",
+    "website": "http://www.bernardobotella.com",
+    "summary": "New technologies passionate with experience in research World and infinite eagerness. I offer high problem solving skills, imaginative and reliable solutions and global vision and an approachable attitude. I am an expert in innovation, entrepreneurship and technology execution, combined with a high level of technical insight, and a firmly believer on technologies to be the way human lives will improve in the future.",
+    "location": {
+      "address": "C/ Sagasta Nº 19",
+      "postalCode": "46740",
+      "city": "Carcaixent",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "bbotella",
+      "url": "http://twitter.com/bbotella"
+    },
+    {
+      "network": "github",
+      "username": "bbotella",
+      "url": "http://github.com/bbotella"
+    },
+    {
+      "network": "linkedin",
+      "username": "bbotella",
+      "url": "https://es.linkedin.com/in/bbotella"
+    }]
+  },
+  "work": [{
+    "company": "Scrapinghub",
+    "position": "Engineer",
+    "website": "http://www.scrapinghub.com",
+    "startDate": "2015-04-01",
+    "endDate": "2016-04-01",
+    "summary": "Dealing with platform problems. Managing big amounts of data, and crawling the web",
+    "highlights": [
+      "Developing platforms that matter"
+    ]
+  },{
+    "company": "Mindrop",
+    "position": "Information Retrieval Engineer",
+    "website": "http://www.mindrop.com",
+    "startDate": "2014-02-01",
+    "endDate": "2015-04-01",
+    "summary": "I deployed and managed an information retrieval cluster, and a platform to crawl thousands of webs and indentify millions of documents.",
+    "highlights": [
+      "Crawl and Search"
+    ]
+  },{
+    "company": "Universitat Politécnica de Valéncia (UPV)",
+    "position": "Researcher",
+    "website": "http://www.upv.es",
+    "startDate": "2012-09-01",
+    "endDate": "2015-02-01",
+    "summary": "Working hard with Arduino and Android devices. Internet of things related research and developments.",
+    "highlights": [
+      "Internet of things"
+    ]
+  },{
+    "company": "Ereadme",
+    "position": "CEO",
+    "startDate": "2010-07-01",
+    "endDate": "2012-09-01",
+    "summary": "I created and lead a startup in the monitoring services space, designing and deploying systems to control physical variables such as temperature and electrical consumption and act according to context.",
+    "highlights": [
+      "Monitoring context"
+    ]
+  },{
+    "company": "Hilton Valencia",
+    "position": "Information Systems Manager",
+    "website": "http://www.hilton.com",
+    "startDate": "2008-06-01",
+    "endDate": "2010-07-01",
+    "summary": "In charge of the hotel IT department, managing budgets and security policies and design, and leading a team of two people to assure a high system availability and performance.",
+    "highlights": [
+      "Sysadmin"
+    ]
+  }
+  ],
+  "education": [{
+    "institution": "Universitat Politécnica de València (UPV)",
+    "area": "Computer engineer",
+    "studyType": "Bachelor",
+    "startDate": "2003-09-01",
+    "endDate": "2008-07-01"
+  },{
+    "institution": "UCV",
+    "area": "Business",
+    "studyType": "Master in Business Administration",
+    "startDate": "2008-07-01",
+    "endDate": "2009-11-01"
+  }],
+  "skills": [{
+    "name": "Python",
+    "level": "Master",
+    "keywords": [
+      "python"
+    ]
+  },{
+    "name": "Java",
+    "level": "Master",
+    "keywords": [
+      "java"
+    ]
+  },{
+    "name": "C",
+    "level": "Medium",
+    "keywords": [
+      "C"
+    ]
+  },{
+    "name": "Solr",
+    "level": "Master",
+    "keywords": [
+      "search",
+      "information retrieval"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Fluent speaker"
+  },{
+    "language": "Spanish",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "Catalan",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Photography",
+    "keywords": [
+      "photograpy"
+    ]
+  },{
+    "name": "Mathematics",
+    "keywords": [
+      "mathematics"
+    ]
+  }]
+}
